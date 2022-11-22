@@ -27,3 +27,5 @@ Pruebas:
   2. Pruebas a las conexiones de las bases de datos.
   3. Data flow graph de la aplicación
 
+Video:
+https://www.youtube.com/watch?v=GoOKdXgFPo0
