@@ -1,9 +1,9 @@
 # Calidad
-
-José Adrian Ontiveros Moran
-Itzel Cecilia Pintor Correa
-Carlos Emilio Leos Alcalá
-Marfik Emiliano Segura Calzada
+Integrantes:
+  1. José Adrian Ontiveros Moran
+  2. Itzel Cecilia Pintor Correa
+  3. Carlos Emilio Leos Alcalá
+  4. Marfik Emiliano Segura Calzada
 
 Proyecto de calida y pruebas de software que utiliza la API de pokémon y muestra distintas opciones:
   1. Buscar Pokémon
