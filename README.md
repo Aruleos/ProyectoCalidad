@@ -17,5 +17,3 @@ Proyecto de calida y pruebas de software que utiliza la API de pokémon y muestr
   0. Salir
 
 A traves de estas consumiremos la API para poder interactuar con ella.
-
-Al programa se le aplicarón las siguientes pruebas de calidad:
