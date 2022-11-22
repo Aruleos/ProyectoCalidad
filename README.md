@@ -17,3 +17,13 @@ Proyecto de calida y pruebas de software que utiliza la API de pokémon y muestr
   0. Salir
 
 A traves de estas consumiremos la API para poder interactuar con ella.
+
+Requerimientos:
+  1. Para este proyecto los objetivos a cumplir fueron el consumo de una API, la cual nosotros escogimos la POKEAPI.
+  2. Ya que tuvieramos definida la API, haríamos pruebas para determinar el funcionamiento de esta.
+
+Pruebas:
+  1. Prueba a los módulos de guardar y eliminar pokemon y grupos.
+  2. Pruebas a las conexiones de las bases de datos.
+  3. Data flow graph de la aplicación
+
